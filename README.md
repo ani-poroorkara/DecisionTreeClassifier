@@ -24,7 +24,7 @@ from sklearn import tree
 3. Run the dtc.py 
 
 ### License
-[Apache License 2.0](https://github.com/ani-poroorkara/RandomForestClassifier/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/ani-poroorkara/DecisionTreeClassifier/blob/master/LICENSE)
 
 ##### I recommend using Google Colab or Jupyter notebooks to run the file cell by cell
 ##### Connect with me on [LinkedIn](https://www.linkedin.com/in/anirudh-poroorkara-34900017b/)
